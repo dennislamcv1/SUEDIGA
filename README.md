@@ -1,5 +1,5 @@
 # SUEDIGA
-## Enterprise Data Integration, Governance and Architecture Specialization
+## Enterprise Data Integration, Governance and Architecture Specialization (3 course series)
 
 Data architects earn up to $192,000 per year in the US (salary.com); talented professionals are in high demand! 
 
